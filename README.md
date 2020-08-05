@@ -2,7 +2,7 @@
 
 ## Olá Pessoal
 Sou estudante e apaixonado por programação e todos seus desafios impostos.
-Atualmente trabalho na área de TI, mas como QA. 
+<br/>Atualmente trabalho na área de TI, mas como QA. 
 <br/>E quero me tornar um dev em breve :smile:
 
  &nbsp; Estou trabalhando na **GFT**
