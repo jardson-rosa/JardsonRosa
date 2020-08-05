@@ -2,7 +2,8 @@
 
 ## Olá Pessoal
 Sou estudante e apaixonado por programação e todos seus desafios impostos.
-Atualmente trabalho na área de TI, mas como QA. E quero me tornar um dev em breve :smile:
+Atualmente trabalho na área de TI, mas como QA. 
+&nbsp; E quero me tornar um dev em breve :smile:
 
  &nbsp; Estou trabalhando na **GFT**
  <br/>  &nbsp; Atualmente estudando Front-end :computer:
