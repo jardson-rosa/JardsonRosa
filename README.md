@@ -11,4 +11,4 @@ Sou estudante e apaixonado por programação e todos seus desafios impostos.
  <br/> 💬  &nbsp; Sobre mim: Curto novas tecnologias, fã incondicional de Naruto, Rick and Morty e Harry Potter, esportes como: Basquete e Futebol, games como: Call of Duty, Uncharted, The Last of Us, etc. E seriados no Netflix e Prime Video.
  <br/> :email: &nbsp; Entre em contato comigo: Linkedin: https://www.linkedin.com/in/jardson-rosa/
 | 
-Email: jardson-rosa@outlook.com
+Email: jardson.rosa@outlook.com
